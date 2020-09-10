@@ -21,5 +21,5 @@ function burgerMenu(selector) {
     }
   }
 }
-
+$("body").css("overflow-x", "initial");
 burgerMenu(".burger-menu");
